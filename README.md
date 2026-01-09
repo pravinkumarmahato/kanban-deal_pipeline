@@ -9,7 +9,7 @@ A full-stack web application for managing investment deal pipelines with role-ba
 ### Screenshots
 
 
-### Screen Recording
+### Screen Recording Demo: https://youtu.be/odKGoXH8wPs
 
 
 ---
