@@ -150,8 +150,7 @@ deal-pipeline/
 │   ├── public/                # Static assets
 │   ├── package.json           # Node.js dependencies
 │   ├── tsconfig.json          # TypeScript configuration
-│   ├── vite.config.ts         # Vite configuration
-│   └── README.md              # Frontend-specific documentation
+│   └── vite.config.ts         # Vite configuration
 │
 └── README.md                   # This file
 ```
