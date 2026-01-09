@@ -6,11 +6,56 @@ A full-stack web application for managing investment deal pipelines with role-ba
 
 ## 📸 Screenshots & Demo
 
+### Screen Recording Demo: https://youtu.be/odKGoXH8wPs
+
 ### Screenshots
 
 
-### Screen Recording Demo: https://youtu.be/odKGoXH8wPs
+#### Admin
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d600bcf1-c188-46fe-bfd2-faca43c44c47" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57b6cab7-6847-4e46-9490-3db99d55bacd" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d205afdd-6ccc-483e-bc56-577274affa9f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48ffce15-1fc6-4b4e-b59e-0dbff9b37bd0" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3752582-9ae2-4205-bc3b-69c85d634a77" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bce84ee5-c0bc-4188-8453-041e348c677f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad4a2cc2-cab3-4908-9a9b-1effa6162b57" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59d32bc8-ae3c-4092-ab77-bbef28c67535" />
+
+
+#### Analyst
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c76afa36-5c34-4fc8-b919-2e0f653b898c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddcf4641-cb33-468f-b2aa-8595d3b8ea83" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0d1a695-939e-4dc4-9cc4-16c7ee9d9e8f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4772172f-ada3-414d-b9a2-ffa852bd5206" />
+
+
+#### Partner
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/258e34f0-b0af-4bf2-a4fb-5da13561f067" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a137e72-fa6c-4349-ae81-4c4aa0cde59f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee380702-9766-49aa-99d4-8d21df8c18fc" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26098ff6-a4aa-442c-aad3-f82db3cdcb5d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1147d02d-1493-4ac8-9b44-bdc35acccac3" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00b303cd-cb50-4b9d-80f4-6e02f7d3bbf3" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/150a08dc-0b1f-41f7-b65e-d296e421e1e2" />
 
 ---
 
